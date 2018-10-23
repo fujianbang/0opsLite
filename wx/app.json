@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/models/spider/index",
+    "pages/models/next/index",
+    "pages/models/github/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "0opsLite",
+    "navigationBarTextStyle": "black"
+  }
+}
